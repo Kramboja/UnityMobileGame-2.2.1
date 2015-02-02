@@ -46,13 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
      <Compile Include="Assets\CollisionCheck.cs" />
      <Compile Include="Assets\MovingPlatform.cs" />
      <Compile Include="Assets\_Scripts\BtnBehaviour.cs" />
      <Compile Include="Assets\_Scripts\CameraMovement.cs" />
      <Compile Include="Assets\_Scripts\PlayeController.cs" />
+=======
+     <Compile Include="Assets\_Scripts\ButtonFunctions.cs" />
+>>>>>>> 3d9c426cd42fced654c75a88da2b07d330d2477c
      <Compile Include="Assets\_Scripts\Score.cs" />
      <Compile Include="Assets\_Scripts\TimeScript.cs" />
+     <Compile Include="Assets\winLoseScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
