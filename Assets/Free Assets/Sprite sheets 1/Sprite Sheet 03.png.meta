@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 0c3fd16d205dc454280309e9640fada2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite Sheet 03_0
+    21300002: Sprite Sheet 03_1
+    21300004: Sprite Sheet 03_2
+    21300006: Sprite Sheet 03_3
+    21300008: Sprite Sheet 03_4
+    21300010: Sprite Sheet 03_5
+    21300012: Sprite Sheet 03_6
+    21300014: Sprite Sheet 03_7
+    21300016: Sprite Sheet 03_8
+    21300018: Sprite Sheet 03_9
+    21300020: Sprite Sheet 03_10
+    21300022: Sprite Sheet 03_11
+    21300024: Sprite Sheet 03_12
+    21300026: Sprite Sheet 03_13
+    21300028: Sprite Sheet 03_14
+    21300030: Sprite Sheet 03_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Sheet 03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 555
+        height: 1234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1186
+        width: 1470
+        height: 862
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_2
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 0
+        width: 695
+        height: 1176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 783
+        width: 743
+        height: 383
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 391
+        width: 381
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 190
+        width: 392
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_6
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 308
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 921
+        height: 594
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 612
+        width: 161
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 612
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 612
+        width: 30
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 612
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 612
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 612
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 612
+        width: 30
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite Sheet 03_15
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 612
+        width: 128
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

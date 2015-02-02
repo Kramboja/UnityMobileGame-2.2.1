@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: d1cbabba349ed06428292b005c0d1087
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite sheet Clouds_0
+    21300002: Sprite sheet Clouds_1
+    21300004: Sprite sheet Clouds_2
+    21300006: Sprite sheet Clouds_3
+    21300008: Sprite sheet Clouds_4
+    21300010: Sprite sheet Clouds_5
+    21300012: Sprite sheet Clouds_6
+    21300014: Sprite sheet Clouds_7
+    21300016: Sprite sheet Clouds_8
+    21300018: Sprite sheet Clouds_9
+    21300020: Sprite sheet Clouds_10
+    21300022: Sprite sheet Clouds_11
+    21300024: Sprite sheet Clouds_12
+    21300026: Sprite sheet Clouds_13
+    21300028: Sprite sheet Clouds_14
+    21300030: Sprite sheet Clouds_15
+    21300032: Sprite sheet Clouds_16
+    21300034: Sprite sheet Clouds_17
+    21300036: Sprite sheet Clouds_18
+    21300038: Sprite sheet Clouds_19
+    21300040: Sprite sheet Clouds_20
+    21300042: Sprite sheet Clouds_21
+    21300044: Sprite sheet Clouds_22
+    21300046: Sprite sheet Clouds_23
+    21300048: Sprite sheet Clouds_24
+    21300050: Sprite sheet Clouds_25
+    21300052: Sprite sheet Clouds_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite sheet Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1881
+        width: 502
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1898
+        width: 522
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1900
+        width: 309
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1881
+        width: 634
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_4
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1713
+        width: 555
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_5
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1723
+        width: 332
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1715
+        width: 375
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1721
+        width: 484
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1551
+        width: 352
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1513
+        width: 809
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_10
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1490
+        width: 808
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_11
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1250
+        width: 428
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1293
+        width: 1036
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1361
+        width: 418
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1027
+        width: 1062
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_15
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1052
+        width: 532
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_16
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1052
+        width: 271
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_17
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 824
+        width: 329
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 771
+        width: 925
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 532
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 530
+        width: 712
+        height: 246
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_21
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 596
+        width: 530
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_22
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 512
+        width: 743
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_23
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 284
+        width: 768
+        height: 213
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 814
+        height: 229
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 702
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sprite sheet Clouds_26
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 940
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
