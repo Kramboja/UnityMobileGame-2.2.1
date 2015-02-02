@@ -30,7 +30,7 @@ AnimatorController:
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
-    m_DefaultBool: 1
+    m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 3
@@ -410,7 +410,7 @@ State:
   m_Motions:
   - {fileID: 7400000, guid: 3252ec4514ded0b4d9fa47f92dff971a, type: 2}
   m_ParentStateMachine: {fileID: 110700000}
-  m_Position: {x: -192, y: 216, z: 0}
+  m_Position: {x: -216, y: 396, z: 0}
   m_IKOnFeet: 0
   m_Mirror: 0
   m_Tag: 
@@ -433,25 +433,6 @@ StateMachine:
   m_ChildStateMachinePosition: []
   m_OrderedTransitions:
     data:
-      first: {fileID: 110282204}
-      second: []
-    data:
-      first: {fileID: 110287624}
-      second:
-      - {fileID: 110165384}
-      - {fileID: 110134208}
-      - {fileID: 110185508}
-    data:
-      first: {fileID: 110284068}
-      second: []
-    data:
-      first: {fileID: 110216654}
-      second:
-      - {fileID: 110196260}
-      - {fileID: 110122842}
-      - {fileID: 110121156}
-      - {fileID: 110147068}
-    data:
       first: {fileID: 110280672}
       second:
       - {fileID: 110181648}
@@ -464,6 +445,25 @@ StateMachine:
       - {fileID: 110194132}
       - {fileID: 110172662}
       - {fileID: 110186354}
+    data:
+      first: {fileID: 110216654}
+      second:
+      - {fileID: 110196260}
+      - {fileID: 110122842}
+      - {fileID: 110121156}
+      - {fileID: 110147068}
+    data:
+      first: {fileID: 110284068}
+      second: []
+    data:
+      first: {fileID: 110287624}
+      second:
+      - {fileID: 110165384}
+      - {fileID: 110134208}
+      - {fileID: 110185508}
+    data:
+      first: {fileID: 110282204}
+      second: []
   m_MotionSetCount: 1
   m_AnyStatePosition: {x: -12, y: -156, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
