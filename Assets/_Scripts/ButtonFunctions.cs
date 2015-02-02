@@ -5,6 +5,7 @@ public class ButtonFunctions : MonoBehaviour {
 
 	public void StartGame()
 	{
+		Debug.Log ("test");
 		Application.LoadLevel (1);
 	}
 
