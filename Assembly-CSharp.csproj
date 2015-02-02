@@ -49,6 +49,7 @@
      <Compile Include="Assets\_Scripts\ButtonFunctions.cs" />
      <Compile Include="Assets\_Scripts\Score.cs" />
      <Compile Include="Assets\_Scripts\TimeScript.cs" />
+     <Compile Include="Assets\winLoseScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
